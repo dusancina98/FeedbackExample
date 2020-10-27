@@ -1,0 +1,4 @@
+C:\Users\Dusan\Desktop\PSW Web\FeedbackExample\FeedbackExample.Repository.SQL\bin\Debug\netcoreapp3.1\FeedbackExample.Enums.dll
+C:\Users\Dusan\Desktop\PSW Web\FeedbackExample\FeedbackExample.Repository.SQL\obj\Debug\netcoreapp3.1\FeedbackExample.Repository.SQL.csprojAssemblyReference.cache
+C:\Users\Dusan\Desktop\PSW Web\FeedbackExample\FeedbackExample.Repository.SQL\obj\Debug\netcoreapp3.1\FeedbackExample.Repository.SQL.AssemblyInfoInputs.cache
+C:\Users\Dusan\Desktop\PSW Web\FeedbackExample\FeedbackExample.Repository.SQL\obj\Debug\netcoreapp3.1\FeedbackExample.Repository.SQL.AssemblyInfo.cs

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cML9PgYlduKqkyliSchkkeCQ444fPYaK2u/XLKxX4JQ2fRL9c0xAgrxpRkvX3hroE8Lw8hBrDrNwDmvoX1J+jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dusan\\Desktop\\PSW Web\\FeedbackExample\\FeedbackExample.Enums\\FeedbackExample.Enums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dusan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
