@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FeedbackExample.Contracts\FeedbackExample.Contracts.csproj" />
+    <ProjectReference Include="..\FeedbackExample.Entities\FeedbackExample.Entities.csproj" />
+    <ProjectReference Include="..\FeedbackExample.Repository.Contracts\FeedbackExample.Repository.Contracts.csproj" />
+  </ItemGroup>
+
 </Project>
