@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FeedbackExample.Entities/1.0.0": {
+        "dependencies": {
+          "FeedbackExample.Enums": "1.0.0"
+        },
+        "runtime": {
+          "FeedbackExample.Entities.dll": {}
+        }
+      },
+      "FeedbackExample.Enums/1.0.0": {
+        "runtime": {
+          "FeedbackExample.Enums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FeedbackExample.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FeedbackExample.Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

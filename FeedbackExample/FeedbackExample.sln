@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackExample.Entities", "FeedbackExample.Entities\FeedbackExample.Entities.csproj", "{502A1DCB-D80C-452A-BB20-557836940BAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeedbackExample.Entities", "FeedbackExample.Entities\FeedbackExample.Entities.csproj", "{502A1DCB-D80C-452A-BB20-557836940BAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackExample.Enums", "FeedbackExample.Enums\FeedbackExample.Enums.csproj", "{DA56D783-3B10-4297-85C7-49A6356FCB7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeedbackExample.Enums", "FeedbackExample.Enums\FeedbackExample.Enums.csproj", "{DA56D783-3B10-4297-85C7-49A6356FCB7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackExample.Services.Implementation", "FeedbackExample.Services.Implementation\FeedbackExample.Services.Implementation.csproj", "{ED762EA0-A0F1-4C68-A266-C9C153FF585C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeedbackExample.Services.Implementation", "FeedbackExample.Services.Implementation\FeedbackExample.Services.Implementation.csproj", "{ED762EA0-A0F1-4C68-A266-C9C153FF585C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackExample.Contracts", "FeedbackExample.Contracts\FeedbackExample.Contracts.csproj", "{3AF62041-9DA8-4019-9BF6-588C16925D17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeedbackExample.Contracts", "FeedbackExample.Contracts\FeedbackExample.Contracts.csproj", "{3AF62041-9DA8-4019-9BF6-588C16925D17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackExample.Repository.Contracts", "FeedbackExample.Repository.Contracts\FeedbackExample.Repository.Contracts.csproj", "{896DBF06-F314-49D5-B7D2-C7905A300837}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeedbackExample.Repository.Contracts", "FeedbackExample.Repository.Contracts\FeedbackExample.Repository.Contracts.csproj", "{896DBF06-F314-49D5-B7D2-C7905A300837}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackExample.Repository.SQL", "FeedbackExample.Repository.SQL\FeedbackExample.Repository.SQL.csproj", "{6CD030BB-854A-4CC2-9B7E-DC3EAF57C5DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeedBackExample.Application", "..\..\FeedbackExample-master\FeedbackExample\FeedBackExample.Application\FeedBackExample.Application.csproj", "{3C67EED2-7260-4A97-908B-7AEE12EB6F29}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeedbackExample.WebAPI", "..\..\FeedbackExample-master\FeedbackExample\FeedbackExample.WebAPI\FeedbackExample.WebAPI.csproj", "{744BEE4E-00C3-4D21-A484-96310B36EEFC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeedbackExample.Repository.SQL", "..\..\FeedbackExample-master\FeedbackExample\FeedbackExample.Repository.SQL\FeedbackExample.Repository.SQL.csproj", "{5ECC4378-5C90-4F6C-B388-7E45E1E00BDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +45,18 @@ Global
 		{896DBF06-F314-49D5-B7D2-C7905A300837}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{896DBF06-F314-49D5-B7D2-C7905A300837}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{896DBF06-F314-49D5-B7D2-C7905A300837}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6CD030BB-854A-4CC2-9B7E-DC3EAF57C5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6CD030BB-854A-4CC2-9B7E-DC3EAF57C5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6CD030BB-854A-4CC2-9B7E-DC3EAF57C5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6CD030BB-854A-4CC2-9B7E-DC3EAF57C5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C67EED2-7260-4A97-908B-7AEE12EB6F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C67EED2-7260-4A97-908B-7AEE12EB6F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C67EED2-7260-4A97-908B-7AEE12EB6F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C67EED2-7260-4A97-908B-7AEE12EB6F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744BEE4E-00C3-4D21-A484-96310B36EEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744BEE4E-00C3-4D21-A484-96310B36EEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744BEE4E-00C3-4D21-A484-96310B36EEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744BEE4E-00C3-4D21-A484-96310B36EEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECC4378-5C90-4F6C-B388-7E45E1E00BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECC4378-5C90-4F6C-B388-7E45E1E00BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECC4378-5C90-4F6C-B388-7E45E1E00BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECC4378-5C90-4F6C-B388-7E45E1E00BDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

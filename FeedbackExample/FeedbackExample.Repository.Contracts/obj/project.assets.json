@@ -45,19 +45,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dusan\\.nuget\\packages\\": {}
+    "C:\\Users\\Nikola\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dusan\\Desktop\\PSW Web\\FeedbackExample\\FeedbackExample.Repository.Contracts\\FeedbackExample.Repository.Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\Nikola\\Desktop\\FeedbackExample\\FeedbackExample\\FeedbackExample.Repository.Contracts\\FeedbackExample.Repository.Contracts.csproj",
       "projectName": "FeedbackExample.Repository.Contracts",
-      "projectPath": "C:\\Users\\Dusan\\Desktop\\PSW Web\\FeedbackExample\\FeedbackExample.Repository.Contracts\\FeedbackExample.Repository.Contracts.csproj",
-      "packagesPath": "C:\\Users\\Dusan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dusan\\Desktop\\PSW Web\\FeedbackExample\\FeedbackExample.Repository.Contracts\\obj\\",
+      "projectPath": "C:\\Users\\Nikola\\Desktop\\FeedbackExample\\FeedbackExample\\FeedbackExample.Repository.Contracts\\FeedbackExample.Repository.Contracts.csproj",
+      "packagesPath": "C:\\Users\\Nikola\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nikola\\Desktop\\FeedbackExample\\FeedbackExample\\FeedbackExample.Repository.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dusan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nikola\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -70,8 +70,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Dusan\\Desktop\\PSW Web\\FeedbackExample\\FeedbackExample.Entities\\FeedbackExample.Entities.csproj": {
-              "projectPath": "C:\\Users\\Dusan\\Desktop\\PSW Web\\FeedbackExample\\FeedbackExample.Entities\\FeedbackExample.Entities.csproj"
+            "C:\\Users\\Nikola\\Desktop\\FeedbackExample\\FeedbackExample\\FeedbackExample.Entities\\FeedbackExample.Entities.csproj": {
+              "projectPath": "C:\\Users\\Nikola\\Desktop\\FeedbackExample\\FeedbackExample\\FeedbackExample.Entities\\FeedbackExample.Entities.csproj"
             }
           }
         }
@@ -94,18 +94,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

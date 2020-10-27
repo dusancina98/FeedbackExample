@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TI1KcRwHNX+Gh0Z1nWcWvPJZOhqZuZEBm8cNp9zrnp5caRHQ0UN0gdr0Dv/g2CUSQ64d1LDclkr9w8d6gT75FA==",
+  "dgSpecHash": "V7Hm9pZuMzBohIsmTGgUi2XnaJ7tpUqg0bGwj3dfnFZZJTJfH0Sjr52rWCjKmVnKOfMbYg8sFsh4XPFRVcfYgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dusan\\Desktop\\PSW Web\\FeedbackExample\\FeedbackExample.Entities\\FeedbackExample.Entities.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Dusan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Nikola\\Desktop\\FeedbackExample\\FeedbackExample\\FeedbackExample.Entities\\FeedbackExample.Entities.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,14 @@
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Repository.Contracts\bin\Debug\netcoreapp3.1\FeedbackExample.Repository.Contracts.deps.json
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Repository.Contracts\bin\Debug\netcoreapp3.1\FeedbackExample.Repository.Contracts.dll
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Repository.Contracts\bin\Debug\netcoreapp3.1\FeedbackExample.Repository.Contracts.pdb
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Repository.Contracts\bin\Debug\netcoreapp3.1\FeedbackExample.Entities.dll
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Repository.Contracts\bin\Debug\netcoreapp3.1\FeedbackExample.Enums.dll
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Repository.Contracts\bin\Debug\netcoreapp3.1\FeedbackExample.Entities.pdb
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Repository.Contracts\bin\Debug\netcoreapp3.1\FeedbackExample.Enums.pdb
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Repository.Contracts\obj\Debug\netcoreapp3.1\FeedbackExample.Repository.Contracts.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Repository.Contracts\obj\Debug\netcoreapp3.1\FeedbackExample.Repository.Contracts.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Repository.Contracts\obj\Debug\netcoreapp3.1\FeedbackExample.Repository.Contracts.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Repository.Contracts\obj\Debug\netcoreapp3.1\FeedbackExample.Repository.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Repository.Contracts\obj\Debug\netcoreapp3.1\FeedbackExample.Repository.Contracts.csproj.CopyComplete
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Repository.Contracts\obj\Debug\netcoreapp3.1\FeedbackExample.Repository.Contracts.dll
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Repository.Contracts\obj\Debug\netcoreapp3.1\FeedbackExample.Repository.Contracts.pdb

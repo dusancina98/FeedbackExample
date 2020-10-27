@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FeedbackExample.Services.Implementation/1.0.0": {
+        "dependencies": {
+          "FeedbackExample.Contracts": "1.0.0",
+          "FeedbackExample.Entities": "1.0.0",
+          "FeedbackExample.Repository.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "FeedbackExample.Services.Implementation.dll": {}
+        }
+      },
+      "FeedbackExample.Contracts/1.0.0": {
+        "dependencies": {
+          "FeedbackExample.Enums": "1.0.0"
+        },
+        "runtime": {
+          "FeedbackExample.Contracts.dll": {}
+        }
+      },
+      "FeedbackExample.Entities/1.0.0": {
+        "dependencies": {
+          "FeedbackExample.Enums": "1.0.0"
+        },
+        "runtime": {
+          "FeedbackExample.Entities.dll": {}
+        }
+      },
+      "FeedbackExample.Enums/1.0.0": {
+        "runtime": {
+          "FeedbackExample.Enums.dll": {}
+        }
+      },
+      "FeedbackExample.Repository.Contracts/1.0.0": {
+        "dependencies": {
+          "FeedbackExample.Entities": "1.0.0"
+        },
+        "runtime": {
+          "FeedbackExample.Repository.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FeedbackExample.Services.Implementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FeedbackExample.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FeedbackExample.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FeedbackExample.Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FeedbackExample.Repository.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

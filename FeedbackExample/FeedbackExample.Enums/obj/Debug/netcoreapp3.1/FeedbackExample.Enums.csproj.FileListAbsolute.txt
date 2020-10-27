@@ -1,0 +1,9 @@
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Enums\bin\Debug\netcoreapp3.1\FeedbackExample.Enums.deps.json
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Enums\bin\Debug\netcoreapp3.1\FeedbackExample.Enums.dll
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Enums\bin\Debug\netcoreapp3.1\FeedbackExample.Enums.pdb
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Enums\obj\Debug\netcoreapp3.1\FeedbackExample.Enums.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Enums\obj\Debug\netcoreapp3.1\FeedbackExample.Enums.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Enums\obj\Debug\netcoreapp3.1\FeedbackExample.Enums.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Enums\obj\Debug\netcoreapp3.1\FeedbackExample.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Enums\obj\Debug\netcoreapp3.1\FeedbackExample.Enums.dll
+C:\Users\Nikola\Desktop\FeedbackExample\FeedbackExample\FeedbackExample.Enums\obj\Debug\netcoreapp3.1\FeedbackExample.Enums.pdb
