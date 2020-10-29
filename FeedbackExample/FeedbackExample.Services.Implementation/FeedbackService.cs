@@ -33,11 +33,10 @@ namespace FeedbackExample.Services.Implementation
 
 
         public IdentifiableDTO<FeedbackDTO> GetById(Guid id) => CreateDTOFromFeedback(_feedbackRepository.GetById(id));
-
+        
         public void Update(FeedbackDTO entityDTO, Guid id)
         {
             _feedbackRepository.Update(CreateFeedbackFromDTO(entityDTO, id));
-
         }
 
         private Feedback CreateFeedbackFromDTO(FeedbackDTO feedback, Guid? id = null)
